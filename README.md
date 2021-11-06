@@ -4,16 +4,6 @@
 
 ![Website](https://shields-io-visitor-counter.herokuapp.com/badge?page=stephenasuncionDEV.stephenasuncionDEV&label=VISITORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge) ![https://discordapp.com/users/746865227471257702Website](https://img.shields.io/badge/Author%20By-Typedef%202604-green?label=DISCORD&labelColor=black&logo=Discord&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-<p float="right">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" style="display:inline-block">
-</p>
-
 ---
 
 I'm Stephen Asuncion
@@ -51,3 +41,15 @@ _Third Semester:_ (currently taking)
 - CPSC 1280 - Unix Tools and Scripting
 - BUSM 1100 - Introduction to Business in Canada
 - CMNS 1118 - Written Communications
+
+# ⌨️ Programming Languages
+
+<p float="left">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" style="display:inline-block">
+</p>
