@@ -11,13 +11,13 @@ I'm Stephen Asuncion
 - _Currently:_ Student at Langara College (Diploma of Computer Studies)
 - _Age:_ 19 years old
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" style="display:inline-block">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" style="display:inline-block">
 
 # 📁Projects
 
