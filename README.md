@@ -11,16 +11,30 @@ I'm Stephen Asuncion
 - _Currently:_ Student at Langara College (Diploma of Computer Studies)
 - _Age:_ 19 years old
 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
+
+# 📁Projects
+
+LiaAuth - [https://github.com/stephenasuncionDEV/LiaAuth](https://github.com/stephenasuncionDEV/LiaAuth)
+
+Showoff - [https://github.com/stephenasuncionDEV/Showoff](https://github.com/stephenasuncionDEV/Showoff)
+
 # 💻Current Transcript
 
-First Semester:
+_First Semester:_
 
 - CPSC 1045 - Intro. to Web Programming **A+**
 - CPSC 1030 - Web Development I **A+**
 - CPSC 1480 - Networking **A**
 - BUSM 1500 - Business Presentation Skills **B+**
 
-Second Semester:
+_Second Semester:_
 
 - CPSC 1050 - Intro. to Computer Science **A+**
 - CPSC 1150 - Program Design **A+**
@@ -28,7 +42,7 @@ Second Semester:
 - CPSC 2221 - Database Systems **A-**
 - CPSC 2600 - Full Stack Web Development I **A+**
 
-Third Semester: (currently taking)
+_Third Semester:_ (currently taking)
 
 - MATH 1170 - Precalculus Mathematics
 - CPSC 1181 - Object-oriented Computing
