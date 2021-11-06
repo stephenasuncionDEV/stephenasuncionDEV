@@ -11,7 +11,6 @@ I'm Stephen Asuncion
 - _Currently:_ Student at Langara College (Diploma of Computer Studies)
 - _Age:_ 19 years old
 
-<p float="left">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40" style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40" style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" style="display:inline-block">
@@ -19,7 +18,6 @@ I'm Stephen Asuncion
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40" style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" style="display:inline-block">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" style="display:inline-block">
-</p>
 
 # 📁Projects
 
