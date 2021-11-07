@@ -45,11 +45,13 @@ _Third Semester:_ (currently taking)
 # ⌨️ Programming Languages
 
 <p float="left">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" style="display:inline-block">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" style="display:inline-block">
+<img src="Icons/java.png" height="40">
+<img src="Icons/cpp.png" height="40">
+<img src="Icons/csharp.png" height="40">
+<img src="Icons/html.png" height="40">
+<img src="Icons/css.png" height="40">
+<img src="Icons/javascript.png" height="40">
+<img src="Icons/python.png" height="40">
+<img src="Icons/nodejs.png" height="40">
+<img src="Icons/reactjs.png" height="40">
 </p>
