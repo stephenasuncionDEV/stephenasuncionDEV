@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-![Website](https://shields-io-visitor-counter.herokuapp.com/badge?page=stephenasuncionDEV.stephenasuncionDEV&label=VISITORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge) ![https://discordapp.com/users/746865227471257702](https://img.shields.io/badge/Author%20By-Typedef%202604-green?label=DISCORD&labelColor=black&logo=Discord&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+![VisitorCount](https://shields-io-visitor-counter.herokuapp.com/badge?page=stephenasuncionDEV.SpotifyClone&label=VISITORS&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=DE332B&style=for-the-badge) ![Discord](https://img.shields.io/badge/Author%20By-Typedef%202604-green?label=DISCORD&labelColor=black&logo=Discord&logoColor=FFFFFF&color=DE332B&style=for-the-badge)
 
 ---
 
