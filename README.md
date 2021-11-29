@@ -13,9 +13,13 @@ I'm Stephen Asuncion
 
 # 📁Projects
 
+SpotifyClone - [https://github.com/stephenasuncionDEV/SpotifyClone](https://github.com/stephenasuncionDEV/SpotifyClone)
+
 LiaAuth - [https://github.com/stephenasuncionDEV/LiaAuth](https://github.com/stephenasuncionDEV/LiaAuth)
 
 Showoff - [https://github.com/stephenasuncionDEV/Showoff](https://github.com/stephenasuncionDEV/Showoff)
+
+[More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
 # 💻Current Transcript
 
