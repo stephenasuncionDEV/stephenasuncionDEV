@@ -17,8 +17,9 @@ LiaAuth - [https://github.com/stephenasuncionDEV/LiaAuth](https://github.com/ste
 
 Showoff - [https://github.com/stephenasuncionDEV/Showoff](https://github.com/stephenasuncionDEV/Showoff)
 
-[More...](https://github.com/stephenasuncionDEV?tab=repositories)
+Club Cryptic - [https://github.com/stephenasuncionDEV/ClubCryptic](https://github.com/stephenasuncionDEV/ClubCryptic)
 
+[More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
 # ⌨️ Programming Languages
 
