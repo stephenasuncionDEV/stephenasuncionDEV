@@ -13,6 +13,8 @@ I'm Stephen Asuncion
 
 # 📁Projects
 
+NFT Host - [https://github.com/stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
+
 LiaAuth - [https://github.com/stephenasuncionDEV/LiaAuth](https://github.com/stephenasuncionDEV/LiaAuth)
 
 Showoff - [https://github.com/stephenasuncionDEV/Showoff](https://github.com/stephenasuncionDEV/Showoff)
