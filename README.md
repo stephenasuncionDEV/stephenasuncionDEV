@@ -9,7 +9,7 @@
 I'm Stephen Asuncion
 
 - _Currently:_ Student at Langara College (Diploma of Computer Studies)
-- _Age:_ 19 years old
+- _Age:_ 20 years old
 
 # 📁Projects
 
