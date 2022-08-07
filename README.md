@@ -12,13 +12,9 @@ Checkout my [Portfolio Website](https://stephenasuncion.vercel.app/).
 
 # 📁Projects
 
-NFT Host - [https://github.com/stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
+NFTHost - [https://github.com/stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
 
-LiaAuth - [https://github.com/stephenasuncionDEV/LiaAuth](https://github.com/stephenasuncionDEV/LiaAuth)
-
-Showoff - [https://github.com/stephenasuncionDEV/Showoff](https://github.com/stephenasuncionDEV/Showoff)
-
-Club Cryptic - [https://github.com/stephenasuncionDEV/ClubCryptic](https://github.com/stephenasuncionDEV/ClubCryptic)
+Funtime - [https://github.com/stephenasuncionDEV/funtime](https://github.com/stephenasuncionDEV/funtime)
 
 [More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
