@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Steb_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-allen-asuncion-3735b2176/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmKzlQCcDv-fern-Zv8vQ0w) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/stephenasuncion) [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/stephenasuncion)
 
-Checkout my [Portfolio Website](https://stephenasuncion.vercel.app/).
+Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Full+Stack+Web+Developer;Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -28,4 +28,4 @@ Funtime - [https://github.com/stephenasuncionDEV/funtime](https://github.com/ste
 
 Recently played song by me:
 
-[![Spotify](https://stephenasuncion.vercel.app/api/spotify?bgColor=transparent&borderColor=transparent&barColor=58a6ff&color=58a6ff)](https://open.spotify.com/user/stephenasuncion?si=36f7bfd0e3be483b)
+[![Spotify](https://stephenasuncion.dev/api/spotify?bgColor=transparent&borderColor=transparent&barColor=58a6ff&color=58a6ff)](https://open.spotify.com/user/stephenasuncion?si=36f7bfd0e3be483b)
