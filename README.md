@@ -14,7 +14,7 @@ Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
 NFTHost - [https://github.com/stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
 
-Funtime - [https://github.com/stephenasuncionDEV/funtime](https://github.com/stephenasuncionDEV/funtime)
+emoji.io - [https://github.com/stephenasuncionDEV/emoji.io](https://github.com/stephenasuncionDEV/emoji.io)
 
 [More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
