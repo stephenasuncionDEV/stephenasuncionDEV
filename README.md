@@ -12,9 +12,11 @@ Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
 # 📁Projects
 
-NFTHost - [https://github.com/stephenasuncionDEV/nfthost](https://github.com/stephenasuncionDEV/nfthost)
+NFTHost - [Repository](https://github.com/stephenasuncionDEV/nfthost) | [Website](https://www.nfthost.app/)
 
-emoji.io - [https://github.com/stephenasuncionDEV/emoji.io](https://github.com/stephenasuncionDEV/emoji.io)
+emoji.io - [Repository](https://github.com/stephenasuncionDEV/emoji.io) | [Website](https://emoji-io.netlify.app/)
+
+Portfolio Website - [Repository](https://github.com/stephenasuncionDEV/stephenasuncionDEV.github.io) | [Website](https://stephenasuncion.dev/)
 
 [More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
