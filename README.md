@@ -22,7 +22,7 @@ Portfolio Website - [Repository](https://github.com/stephenasuncionDEV/stephenas
 
 # 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,php,cpp,cs,nodejs,react,next,express,mongodb,mysql,docker,git,figma,bash,jquery,vscode,vercel,heroku,netlify,photoshop,premiere,firebase&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,php,cpp,cs,nodejs,react,next,express,mongodb,mysql,docker,git,figma,bash,jquery,vscode,vercel,heroku,netlify,photoshop,premiere,firebase,rust&theme=light)
 
 ## 🎧 Music
 
