@@ -2,7 +2,7 @@
 
  When I was about 10 years old, I wondered how they made notepad.exe. That is how I started programming.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenasuncion/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Steb_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/StephenAsuncion) [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/stephenasuncion)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenasuncion/) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23FFAA00.svg?&style=flat-square&logo=stackoverflow&logoColor=white&color=orange)](https://stackoverflow.com/users/19981230/stephen-asuncion) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Steb_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/StephenAsuncion) [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/stephenasuncion)
 
 Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
@@ -14,9 +14,13 @@ Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
 NFTHost - [Repository](https://github.com/stephenasuncionDEV/nfthost) | [Website](https://www.nfthost.app/)
 
+kaldereta - [Repository](https://github.com/stephenasuncionDEV/kaldereta)
+
+gencomp - [Repository](https://github.com/stephenasuncionDEV/gencomp) | [Website](https://marketplace.visualstudio.com/items?itemName=StephenAsuncion.gencomp)
+
 emoji.io - [Repository](https://github.com/stephenasuncionDEV/emoji.io) | [Website](https://emoji-io.netlify.app/)
 
-Portfolio Website - [Repository](https://github.com/stephenasuncionDEV/stephenasuncionDEV.github.io) | [Website](https://stephenasuncion.dev/)
+gen-rs - [Repository](https://github.com/stephenasuncionDEV/gen-rs)
 
 [More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
