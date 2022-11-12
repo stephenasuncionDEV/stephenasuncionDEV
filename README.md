@@ -25,11 +25,3 @@ gen-rs - [Repository](https://github.com/stephenasuncionDEV/gen-rs)
 # 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,py,php,cpp,cs,nodejs,react,next,express,mongodb,mysql,docker,git,figma,bash,jquery,vscode,vercel,heroku,netlify,photoshop,premiere,firebase,rust,graphql&theme=light)
-
-## 🎧 Music
-
-[![GYM Playlist](https://img.shields.io/badge/GYM%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4iQegBHNn1rdTJiPpMZPJT?si=dfa45a56be284463) [![Car Music](https://img.shields.io/badge/Car%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6HZB2sZifKxp3c0r1rc29X?si=85ed5ea1ef014314) [![Daily Music](https://img.shields.io/badge/Daily%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1XYlAgH3xZSQNgUROqqKD4?si=c6b94722086d4b37) [![RnB Music](https://img.shields.io/badge/RnB%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2H0FjEaHEHxsH9BLD5iw4j?si=7342162e251843a0)
-
-Recently played song by me:
-
-[![Spotify](https://stephenasuncion.dev/api/spotify?bgColor=transparent&borderColor=transparent&barColor=58a6ff&color=58a6ff)](https://open.spotify.com/user/stephenasuncion?si=36f7bfd0e3be483b)
