@@ -16,6 +16,8 @@ Checkout my [Portfolio Website](https://stephenasuncion.dev).
 
 NFTHost - [Repository](https://github.com/stephenasuncionDEV/nfthost) | [Website](https://www.nfthost.app/)
 
+stephenasuncion (Portfolio) - [Repository](https://github.com/stephenasuncionDEV/stephenasuncion) | [Website](https://stephenasuncion.dev/)
+
 gencomp - [Repository](https://github.com/stephenasuncionDEV/gencomp) | [Website](https://marketplace.visualstudio.com/items?itemName=StephenAsuncion.gencomp)
 
 emoji.io - [Repository](https://github.com/stephenasuncionDEV/emoji.io) | [Website](https://emoji-io.netlify.app/)
