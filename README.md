@@ -18,6 +18,8 @@ NFTHost - [Repository](https://github.com/stephenasuncionDEV/nfthost) | [Website
 
 stephenasuncion (Portfolio) - [Repository](https://github.com/stephenasuncionDEV/stephenasuncion) | [Website](https://stephenasuncion.dev/)
 
+create-typedef-app - [Repository](https://github.com/stephenasuncionDEV/create-typedef-app)
+
 gencomp - [Repository](https://github.com/stephenasuncionDEV/gencomp) | [Website](https://marketplace.visualstudio.com/items?itemName=StephenAsuncion.gencomp)
 
 emoji.io - [Repository](https://github.com/stephenasuncionDEV/emoji.io) | [Website](https://emoji-io.netlify.app/)
