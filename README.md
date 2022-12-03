@@ -22,10 +22,6 @@ create-typedef-app - [Repository](https://github.com/stephenasuncionDEV/create-t
 
 gencomp - [Repository](https://github.com/stephenasuncionDEV/gencomp) | [Website](https://marketplace.visualstudio.com/items?itemName=StephenAsuncion.gencomp)
 
-emoji.io - [Repository](https://github.com/stephenasuncionDEV/emoji.io) | [Website](https://emoji-io.netlify.app/)
-
-gen-rs - [Repository](https://github.com/stephenasuncionDEV/gen-rs)
-
 [More...](https://github.com/stephenasuncionDEV?tab=repositories)
 
 # 🔧 Technologies
