@@ -6,6 +6,5 @@ As a child, I was always curious about how things worked. When I was around 10 y
 
 [![Spotify Music](https://stephenasuncion.dev/api/spotify?v=2&color=black#gh-light-mode-only)](https://stephenasuncion.dev/api/spotify?v=2&color=black#gh-light-mode-only)
 
-[Portfolio](https://stephenasuncion.dev)
-
-[LinkedIn](https://www.linkedin.com/in/stephenasuncion/)
+- [Portfolio](https://stephenasuncion.dev)
+- [LinkedIn](https://www.linkedin.com/in/stephenasuncion/)
